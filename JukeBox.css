@@ -1,0 +1,67 @@
+#alignHeading {
+	text-align: center;
+	text-decoration: underline;
+}
+#myStyle{
+	font-size: 38px;
+	color: blue;
+}
+#mysong1{
+  display: inline-block;
+  font-size: 2em;
+  margin: 0.25em 0;
+  cursor: pointer;
+  padding: 0.25em;
+  border-radius: 10px;
+}
+#mysong2{
+  display: inline-block;
+  font-size: 2em;
+  margin: 0.25em 0;
+  cursor: pointer;
+  padding: 0.25em;
+  border-radius: 10px;
+}
+
+#mysong3{
+  display: inline-block;
+  font-size: 2em;
+  margin: 0.25em 0;
+  cursor: pointer;
+  padding: 0.25em;
+  border-radius: 10px;
+}
+#mysongPlay{
+  display: inline-block;
+  font-size: 2em;
+  margin: 0.25em 0;
+  cursor: pointer;
+  padding: 0.25em;
+  border-radius: 10px;
+}
+#mysongPause{
+  display: inline-block;
+  font-size: 2em;
+  margin: 0.25em 0;
+  cursor: pointer;
+  padding: 0.25em;
+  border-radius: 10px;
+}
+#mysongStop{
+  display: inline-block;
+  font-size: 2em;
+  margin: 0.25em 0;
+  cursor: pointer;
+  padding: 0.25em;
+  border-radius: 10px;
+}
+
+.selected {
+  background-color: lightblue;
+}
+.notSelected {
+	background-color: lightgrey;
+}
+.songPaused{
+
+}
